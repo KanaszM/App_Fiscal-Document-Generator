@@ -1,5 +1,7 @@
 # App_Fiscal-Document-Generator
 
+## This Read-Me file is a work in progress...
+
 This application generates standard-Romanian form fiscal documents based on user input.
 Currently, the application is provided in the Romanian language only.
 
